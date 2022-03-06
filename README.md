@@ -88,10 +88,12 @@ If the selling recommendations are followed, expected results are:
 Information of which property should be bought and when to sell it can be found on the online [dashboard](https://house-rocket-insights-db.herokuapp.com/).
 
 ## 7. Most Relevant Data Insights
-1. Properties with condition equal to 4 are the most profitable, followed by properties with condition equal to 3, and 5.
-2. Most properties (58%) became available for sale during summer and spring.
-3. 50% of the houses recommended to buy are within a 15km from the lake
-
+1. Properties with condition equal to 4 are the most profitable, followed by properties with condition equal to 3, and 5.<br><br>
+<img src="https://github.com/felipefvasconcelos/House_Rocket_Insight_Project/blob/main/assets/hipotesis_8.JPG" width="700" height="400"><br><br>
+2. Most properties (58%) became available for sale during summer and spring.<br><br>
+<img src="https://github.com/felipefvasconcelos/House_Rocket_Insight_Project/blob/main/assets/hipotesis_9.JPG" width="800" height="400"><br><br>
+4. 50% of the houses recommended to buy are within a 15km from the lake<br><br>
+<img src="https://github.com/felipefvasconcelos/House_Rocket_Insight_Project/blob/main/assets/hipotesis_10.JPG" width="700" height="400"><br><br>
 
 ## 8. Conclusion
 The objective of this project was to apply Python basic concepts to solve a hypotetical business problem of an fictional company (House Rocket). After following the steps listed in the solution strategy, and considering the business assumptions that were made, it was possible to classify each property in "buy" or "no buy" recommendation. Also, for those properties recommended to be bought, it was suggested a selling price and the best season to sell it. Finally, it was built an online dashboard to visualize all recommendations made along this project.
