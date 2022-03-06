@@ -6,7 +6,6 @@ In this repository I use Python basics to provide business insights on house mar
 All information below is fictional.
 
 ## 1. Business Problem
-
 House Rocket's business model is basically buy-and-sell properties by using technology to maximize its revenue. The biggest challenge is to find the best business oportunities available in the real state market based on several attributes of each property.
 
 Therefore, the main questions this project aim to answer is:
@@ -29,9 +28,7 @@ Therefore, the main questions this project aim to answer is:
    * Fall starts on September, end on November
    * Winter starts on December, end on February
 
-
 ## 3. Data
-
 The data used in this project can be found at:<br>
 https://www.kaggle.com/harlfoxem/housesalesprediction/discussion/207885
 <br><br>
@@ -63,7 +60,6 @@ Attribute | Definition
 |sqft_living15 | The square footage of interior housing living space for the nearest 15 neighbors|
 |sqft_lot15 | The square footage of the land lots of the nearest 15 neighbors|
 </details>
-
 
 ## 4. Solution Strategy
 1. Understanding business model and busines problem;
