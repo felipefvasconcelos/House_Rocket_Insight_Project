@@ -72,7 +72,7 @@ Attribute | Definition
 4. Clean Data;
 5. Explore data;
 6. Answer business questions (section 1);
-7. Deploy [dashboard](https://house-rocket-insights-db.herokuapp.com/);
+7. Deploy [dashboard](https://felipefvasconcelos-house-heroku-apphouse-rocket-insights-uothtd.streamlit.app/);
 8. Validate hypotesis;
 9. Provide relevant insights.
 
@@ -90,7 +90,7 @@ If the selling recommendations are followed, expected results are:
 * Minimum Expected Profit: $ 694,433,672.2
 * Maximum Expeted Profit: $ 839,540,926.8
 <br><br>
-Information of which property should be bought and when to sell it can be found on the online [dashboard](https://house-rocket-insights-db.herokuapp.com/).
+Information of which property should be bought and when to sell it can be found on the online [dashboard](https://felipefvasconcelos-house-heroku-apphouse-rocket-insights-uothtd.streamlit.app/).
 
 ## 7. Business Most Relevant Insights
 
