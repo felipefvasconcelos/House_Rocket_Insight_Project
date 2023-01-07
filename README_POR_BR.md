@@ -73,7 +73,7 @@ Atributo | Definição
 4. Limpar dados;
 5. Explorar dados;
 6. Responder questões do negócio (seção 1);
-7. Publicar [dashboard](https://house-rocket-insights-db.herokuapp.com/);
+7. Publicar [dashboard](https://felipefvasconcelos-house-heroku-apphouse-rocket-insights-uothtd.streamlit.app/);
 8. Validar hipóteses;
 9. Providenciar insights relevantes.
 
@@ -91,7 +91,7 @@ Se as recomendações de venda forem seguiras, os resultados esperados são:
 * Lucro Mínimo Esperado: $ 694,433,672.2
 * Lucro Máximo Esperado: $ 839,540,926.8
 <br><br>
-Informações sobre qual propriedade deve ser comprada e quando vender podem ser encontradas no [dashboard](https://house-rocket-insights-db.herokuapp.com/) online.
+Informações sobre qual propriedade deve ser comprada e quando vender podem ser encontradas no [dashboard](https://felipefvasconcelos-house-heroku-apphouse-rocket-insights-uothtd.streamlit.app/) online.
 
 ## 7. Insights Mais Relevantes do Negócio
 
